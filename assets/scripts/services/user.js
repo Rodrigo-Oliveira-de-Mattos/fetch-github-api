@@ -1,4 +1,4 @@
-import{baseUrl} from '/assets/scripts/variables.js';
+import{baseUrl} from '../variables.js';
 
 // para usar await
 async function getUser(userName) {

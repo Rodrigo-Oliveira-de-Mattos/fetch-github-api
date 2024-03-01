@@ -1,4 +1,4 @@
-import{baseUrl, repositoriesQuantity} from '/assets/scripts/variables.js';
+import{baseUrl, repositoriesQuantity} from '../variables.js';
 
 // puxa a url dos events
 async function getEvents(userName) {
